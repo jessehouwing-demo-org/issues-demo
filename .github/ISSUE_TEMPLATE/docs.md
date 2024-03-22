@@ -1,5 +1,5 @@
 ---
-name: "📖 Dcoumentation update"
+name: "📖 Documentation update"
 about: Adding or updating sections to the documentation
 title: ''
 labels: docs 📖
