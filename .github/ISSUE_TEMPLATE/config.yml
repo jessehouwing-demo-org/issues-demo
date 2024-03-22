@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "👋 Frequently Asked Questions"
+    url: https://github.com/jessehouwing-demo/projects-demo/wiki/faq
+    about: Have you checked the FAQ?
+  - name: "💬 Q&A in discussions"
+    url: https://github.com/jessehouwing-demo-org/issues-demo/discussions/categories/q-a
+    about: Ask a quetion in our community
